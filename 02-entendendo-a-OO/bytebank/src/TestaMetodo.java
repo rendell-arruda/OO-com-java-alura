@@ -21,6 +21,9 @@ public class TestaMetodo {
 			System.out.println("Faltou dinheiro");
 		}
 		System.out.println(contaDaMarcela.saldo);
+		
+		contaDoPaulo.titular = "paulo silveira";
+		System.out.println(contaDoPaulo.titular);
 
 		
 	;}
