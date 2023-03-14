@@ -6,7 +6,7 @@ public class TesteDeReferencia {
 			
 			
 			Conta segundaConta = primeiraConta;
-			
-		}
+					}
 
+		
 }
