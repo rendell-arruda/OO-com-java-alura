@@ -7,5 +7,7 @@ public class testaClienteExercicio {
 		contaDoRendell.titular = new Cliente();
 //		atribui o nome do cliente ao objeto Cliente
 		contaDoRendell.titular.nome = "Rendell Arruda";	
+		
+		System.out.println(contaDoRendell.titular.nome);
 	}
 }
